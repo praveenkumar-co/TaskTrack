@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://tasktrack-iu9u.onrender.com"
+      "destination": "https://tasktrack-iu9u.onrender.com/api/:path*"
     }
   ]
 }
